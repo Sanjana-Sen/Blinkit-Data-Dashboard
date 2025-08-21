@@ -33,7 +33,7 @@ This dashboard provides a comprehensive view of total sales, outlet distribution
 
 6. 📷 Dashboard Preview  
 
-![Blinkit Dashboard](Screenshot%202025-07-25%20133044.png)  
+![Blinkit Dashboard](https://github.com/Sanjana-Sen/Blinkit-Data-Dashboard/blob/main/blinkit.png)  
 
 ---
 
